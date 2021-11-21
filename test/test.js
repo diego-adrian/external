@@ -9,7 +9,7 @@ describe('Mis ejemplos con mocha', () => {
 
   it('Quiero validar que 2 + 2 = 4', () => {
     const suma = 2 + 2;
-    assert.equal(suma, 4);
+    assert.equal(suma, 6);
   })
 
 });
